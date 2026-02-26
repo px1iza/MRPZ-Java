@@ -5,6 +5,7 @@ class Main {
 
         System.out.println("Rabirokh Elizaveta");
         System.out.println("121 Group");
+        System.out.println("Var 22");
         System.out.println();
 
         int matrix[][] = new int[4][4];
