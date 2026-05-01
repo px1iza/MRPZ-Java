@@ -1,0 +1,15 @@
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.AssemblyInfoInputs.cache
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.AssemblyInfo.cs
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.sourcelink.json
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/bin/Debug/net9.0/Lab3
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/bin/Debug/net9.0/Lab3.deps.json
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/bin/Debug/net9.0/Lab3.runtimeconfig.json
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/bin/Debug/net9.0/Lab3.dll
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/bin/Debug/net9.0/Lab3.pdb
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.dll
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/refint/Lab3.dll
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.pdb
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/Lab3.genruntimeconfig.cache
+/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/Lab3/obj/Debug/net9.0/ref/Lab3.dll
