@@ -6,11 +6,9 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Введіть шлях до файлу: ");
-        string inputPath = Console.ReadLine();
+        string inputPath = "/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/lab4/Test.txt";
 
-        Console.Write("Введіть шлях для результуючого файлу: ");
-        string outputPath = Console.ReadLine();
+        string outputPath = "/Users/elizavetarabirokh/IdeaProjects/MRPZ-Java/lab4/Result.txt";
 
         try
         {
